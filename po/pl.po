@@ -139,7 +139,7 @@ msgstr "Usługa ModemManager jest niedostępna"
 
 #: ../plugins/phone/CallForwarding.qml:228
 msgid "Contacts…"
-msgstr ""
+msgstr "Kontakty…"
 
 #: ../plugins/phone/CallForwarding.qml:241 ../plugins/wifi/CertDialog.qml:65
 #: ../plugins/wifi/OtherNetwork.qml:890 ../plugins/hotspot/HotspotSetup.qml:288
@@ -241,11 +241,11 @@ msgstr "Adres IP"
 
 #: ../plugins/wifi/CertDialog.qml:22
 msgid "Add certificate?"
-msgstr ""
+msgstr "Dodać certyfikat?"
 
 #: ../plugins/wifi/CertDialog.qml:24
 msgid "Add key?"
-msgstr ""
+msgstr "Dodać klucz?"
 
 #: ../plugins/wifi/CertDialog.qml:26
 msgid "Add pac file?"
@@ -314,7 +314,7 @@ msgstr "Nazwa sieci"
 
 #: ../plugins/wifi/OtherNetwork.qml:299
 msgid "SSID"
-msgstr ""
+msgstr "SSID"
 
 #: ../plugins/wifi/OtherNetwork.qml:308
 #: ../plugins/security-privacy/PageComponent.qml:115
@@ -375,7 +375,7 @@ msgstr ""
 
 #: ../plugins/wifi/OtherNetwork.qml:397
 msgid "CA certificate"
-msgstr ""
+msgstr "certyfikat CA"
 
 #. TRANSLATORS: %1 is the name of a certificate file.
 #. The ellipsis indicates that the file name has been
@@ -383,14 +383,14 @@ msgstr ""
 #: ../plugins/wifi/OtherNetwork.qml:451
 #, qt-format
 msgid "%1…"
-msgstr ""
+msgstr "%1…"
 
 #: ../plugins/wifi/OtherNetwork.qml:459 ../plugins/wifi/OtherNetwork.qml:576
 #: ../plugins/wifi/certhandler.cpp:106 ../plugins/wifi/certhandler.cpp:141
 #: ../plugins/wifi/certhandler.cpp:193 ../plugins/wifi/certhandler.cpp:225
 #: ../plugins/wifi/certhandler.cpp:290 ../plugins/wifi/certhandler.cpp:319
 msgid "Choose…"
-msgstr ""
+msgstr "Wybór…"
 
 #. TRANSLATORS: The first position is the name of
 #. the organization that has issued the certificate.
@@ -417,11 +417,11 @@ msgstr ""
 
 #: ../plugins/wifi/OtherNetwork.qml:513
 msgid "Client certificate"
-msgstr ""
+msgstr "Certyfikat klienta"
 
 #: ../plugins/wifi/OtherNetwork.qml:555
 msgid "User private key"
-msgstr ""
+msgstr "Użytkownik prywatnego klucza"
 
 #. TRANSLATORS: The first position is the type of
 #. private key, second the key algorithm, and third the
@@ -429,7 +429,7 @@ msgstr ""
 #: ../plugins/wifi/OtherNetwork.qml:580
 #, qt-format
 msgid "%1, %2, %3 bit"
-msgstr ""
+msgstr "%1, %2, %3 bit"
 
 #: ../plugins/wifi/OtherNetwork.qml:623
 msgid "Pac file"
@@ -446,7 +446,7 @@ msgstr "Dezaktywacja"
 
 #: ../plugins/wifi/OtherNetwork.qml:688
 msgid "Anonymous"
-msgstr ""
+msgstr "Anonimowy"
 
 #: ../plugins/wifi/OtherNetwork.qml:689
 msgid "Authenticated"
@@ -469,7 +469,7 @@ msgstr "Wersja: "
 #: ../plugins/wifi/OtherNetwork.qml:715
 #, fuzzy
 msgid "Version 1"
-msgstr "Wersja: "
+msgstr "Wersja 1"
 
 #: ../plugins/wifi/OtherNetwork.qml:716
 #, fuzzy
@@ -495,7 +495,7 @@ msgstr ""
 #: ../plugins/wifi/OtherNetwork.qml:858
 #, fuzzy
 msgid "Remember password"
-msgstr "Hasło"
+msgstr "Pamiętaj hasło"
 
 #: ../plugins/wifi/OtherNetwork.qml:906 ../plugins/bluetooth/DevicePage.qml:168
 msgid "Connect"
@@ -683,7 +683,7 @@ msgstr "Zmień"
 
 #: ../plugins/hotspot/HotspotSetup.qml:300
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 #. TRANSLATORS: This is a keyword or name for the hotspot plugin which is used while searching
 #: ../plugins/hotspot/PageComponent.qml:32
@@ -711,7 +711,7 @@ msgstr ""
 #: ../plugins/hotspot/PageComponent.qml:120
 #, fuzzy
 msgid "Change Password/Setup…"
-msgstr "Zmień kod..."
+msgstr "Zmień hasło..."
 
 #: ../plugins/hotspot/PageComponent.qml:120
 #, fuzzy
@@ -721,7 +721,7 @@ msgstr "Ustaw hotspot"
 #: ../plugins/hotspot/PageComponent.qml:151
 #, fuzzy
 msgid "Wi-Fi is off"
-msgstr "Wi-Fi hotspot"
+msgstr "Wi-Fi jest wyłączone
 
 #: ../plugins/hotspot/PageComponent.qml:152
 msgid "In order to create a hotspot, you need to turn Wi-Fi on."
@@ -730,7 +730,7 @@ msgstr ""
 #: ../plugins/hotspot/PageComponent.qml:161
 #, fuzzy
 msgid "Turn on Wi-Fi"
-msgstr "Gdy podłączony do Wi-Fi"
+msgstr "Włącz Wi-Fi"
 
 #: ../plugins/battery/SleepValues.qml:78
 msgid "Lock the phone when it's not in use:"
@@ -909,7 +909,7 @@ msgstr "Aplikacje, które poprosiły o dostęp do mikrofonu"
 #: ../plugins/security-privacy/AppAccess.qml:62
 #, fuzzy
 msgid "Microphone"
-msgstr "telefon"
+msgstr "Mikrofon
 
 #: ../plugins/security-privacy/AppAccess.qml:63
 #, fuzzy
@@ -941,7 +941,7 @@ msgstr "Aplikacje, które poprosiły o dostęp do mikrofonu"
 
 #: ../plugins/security-privacy/AppAccess.qml:102
 msgid "Online Accounts…"
-msgstr ""
+msgstr "Konta Online…"
 
 #: ../plugins/security-privacy/SimPin.qml:36
 #: ../plugins/security-privacy/SimPin.qml:397
@@ -1046,7 +1046,7 @@ msgstr "Wpisywanie niepoprawnego kodu PIN może zablokować na stałe kartę SIM
 #: ../plugins/security-privacy/PhoneLocking.qml:31
 #: ../plugins/security-privacy/PageComponent.qml:120
 msgid "Locking and unlocking"
-msgstr ""
+msgstr "Zablokowany i odblokowany"
 
 #: ../plugins/security-privacy/PhoneLocking.qml:56
 msgctxt "Unlock with swipe"
@@ -1253,7 +1253,7 @@ msgstr ""
 
 #: ../plugins/security-privacy/Location.qml:174
 msgid "Using GPS"
-msgstr ""
+msgstr "Używaj GPS"
 
 #. TRANSLATORS: %1 is the resource wherein HERE
 #. terms and conditions reside (typically a qml file).
@@ -1614,7 +1614,7 @@ msgstr ""
 #: ../plugins/cellular/PageChooseApn.qml:85
 #, fuzzy
 msgid "Internet and MMS"
-msgstr "Internet"
+msgstr "Internet i MMS"
 
 #: ../plugins/cellular/PageApnEditor.qml:161
 #: ../plugins/cellular/PageChooseApn.qml:87
@@ -1695,19 +1695,19 @@ msgstr "Tylko z telefonu"
 
 #: ../plugins/cellular/PageApnEditor.qml:402
 msgid "Protocol"
-msgstr ""
+msgstr "Protokół"
 
 #: ../plugins/cellular/PageApnEditor.qml:406
 msgid "IPv4"
-msgstr ""
+msgstr "IPv4"
 
 #: ../plugins/cellular/PageApnEditor.qml:407
 msgid "IPv6"
-msgstr ""
+msgstr "IPv6"
 
 #: ../plugins/cellular/PageApnEditor.qml:408
 msgid "IPv4v6"
-msgstr ""
+msgstr "IPv4v6"
 
 #: ../plugins/cellular/PageChooseApn.qml:63
 #, fuzzy
@@ -1782,7 +1782,7 @@ msgstr "Dezaktywacja"
 #: ../plugins/cellular/PageChooseApn.qml:247
 #, fuzzy, qt-format
 msgid "Disconnect %1"
-msgstr "Rozłącz"
+msgstr "Rozłącz %1"
 
 #: ../plugins/cellular/PageChooseApn.qml:248
 #, fuzzy, qt-format
@@ -1944,7 +1944,7 @@ msgstr "Zezwól"
 
 #: ../plugins/bluetooth/AuthorizationRequestDialog.qml:46
 msgid "Refuse"
-msgstr ""
+msgstr "Odmów"
 
 #: ../plugins/bluetooth/ProvidePinCodeDialog.qml:36
 #: ../plugins/bluetooth/ProvidePasskeyDialog.qml:36
@@ -2023,7 +2023,7 @@ msgstr "Drukarka"
 
 #: ../plugins/bluetooth/DevicePage.qml:61
 msgid "Watch"
-msgstr ""
+msgstr "Oglądaj"
 
 #: ../plugins/bluetooth/DevicePage.qml:62
 msgid "Other"
@@ -2259,7 +2259,7 @@ msgstr ""
 
 #: ../plugins/system-update/PageComponent.qml:100
 msgid "Restart & Install"
-msgstr ""
+msgstr "Uruchom ponownie i zainstaluj"
 
 #: ../plugins/system-update/PageComponent.qml:116
 msgid "Install"
@@ -2471,7 +2471,7 @@ msgstr "Dane w roamingu"
 #. this word must be less than 5 characters
 #: ../plugins/cellular/Components/LabelTextField.qml:51
 msgid "Next"
-msgstr ""
+msgstr "Dalej"
 
 #: ../plugins/cellular/Components/NoSim.qml:36
 #, fuzzy
@@ -2480,7 +2480,7 @@ msgstr "Nic nie wykryto"
 
 #: ../plugins/cellular/Components/NoSim.qml:45
 msgid "Insert a SIM, then restart the phone."
-msgstr ""
+msgstr "Włóż kartę SIM, później uruchom ponownie telefon"
 
 #: ../plugins/background/Components/AddRemove.qml:52
 msgid "No images selected"
@@ -2644,7 +2644,7 @@ msgstr "Adres"
 #: ../build/po/settings.js:52
 #, fuzzy
 msgid "Rotation Lock"
-msgstr "Blokada położenia"
+msgstr "Blokada obrotu"
 
 #. TRANSLATORS: This is a keyword or name for the orientation-lock plugin which is used while searching
 #: ../build/po/settings.js:54
@@ -2823,7 +2823,7 @@ msgstr "Głośność"
 #. TRANSLATORS: This is a keyword or name for the flight-mode plugin which is used while searching
 #: ../build/po/settings.js:138
 msgid "Flight Mode"
-msgstr "Tryb samolotu"
+msgstr "Tryb samolotowy"
 
 #. TRANSLATORS: This is a keyword or name for the flight-mode plugin which is used while searching
 #: ../build/po/settings.js:140
